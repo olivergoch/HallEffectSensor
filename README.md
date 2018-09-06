@@ -1,2 +1,2 @@
 # HallEffectSensor
-Hall Effect Sensor code
+Hall Effect Sensor Arduino code
